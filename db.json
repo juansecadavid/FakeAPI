@@ -1,19 +1,16 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "results": {[
+  "results":[
     {
     "name": "Juanse",
     "species": "Crack"
-  },
+    },
     {
-  "name": "Clara",
+    "name": "Clara",
     "species": "Crack"
+    },
+    {
+      "name": "Juan",
+    "species": "Loco"
     }
   ]
-}
 }
