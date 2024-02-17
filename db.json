@@ -5,8 +5,15 @@
       "title": "hello"
     }
   ],
-  "results": {
+  "results": {[
+    {
     "name": "Juanse",
     "species": "Crack"
-  }
+  },
+    {
+  "name": "Clara",
+    "species": "Crack"
+    }
+  ]
+}
 }
