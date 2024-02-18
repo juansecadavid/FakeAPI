@@ -12,5 +12,13 @@
       "name": "Juan",
     "species": "Loco"
     }
+  ],
+  "cards":[
+    {
+      "name": "3 corazones"
+    },
+    {
+      "name": "5 diamantess"
+    }
   ]
 }
