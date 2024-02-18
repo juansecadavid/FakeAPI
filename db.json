@@ -3,47 +3,29 @@
     {
     "name": "1 carta",
     "image": "Crack"
-    },
-    {
-    "name": "carta 2",
-    "image": "Crack"
-    },
-    {
-      "name": "carta 3",
-    "image": "Loco"
-    },
-     {
-    "name": "carta 4",
-    "image": "Crack"
-    },
-     {
-    "name": "carta 5",
-    "image": "Crack"
-    },
-     {
-    "name": "carta 6",
-    "image": "Crack"
-    },
-     {
-    "name": "carta 7",
-    "image": "Crack"
-    },
-     {
-    "name": "carta 8",
-    "image": "Crack"
-    },
-     {
-    "name": "carta 9",
-    "image": "carta 10"
-    },
-     {
-    "name": "carta 10",
-    "image": "Crack"
     }
   ],
   "users":[
     {
-      "name": "juanse"
+      "id": "1",
+      "name": "juanse",
+      "deck": [
+        {
+          "card": "1"
+        },
+        {
+          "card": "2"
+        },
+        {
+          "card": "3"
+        },
+        {
+          "card": "4"
+        },
+        {
+          "card": "5"
+        }
+      ]
     },
     {
       "name": "clara"
