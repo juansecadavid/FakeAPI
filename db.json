@@ -1,17 +1,45 @@
 {
   "users":[
     {
-    "name": "Juanse",
-    "species": "Crack"
+    "name": "1 carta",
+    "image": "Crack"
     },
     {
-    "name": "Clara",
-    "species": "Crack"
+    "name": "carta 2",
+    "image": "Crack"
     },
     {
-      "name": "Juan",
-    "species": "Loco"
+      "name": "carta 3",
+    "image": "Loco"
     }
+     {
+    "name": "carta 4",
+    "image": "Crack"
+    },
+     {
+    "name": "carta 5",
+    "image": "Crack"
+    },
+     {
+    "name": "carta 6",
+    "image": "Crack"
+    },
+     {
+    "name": "carta 7",
+    "image": "Crack"
+    },
+     {
+    "name": "carta 8",
+    "image": "Crack"
+    },
+     {
+    "name": "carta 9",
+    "image": "carta 10"
+    },
+     {
+    "name": "carta 10",
+    "image": "Crack"
+    },
   ],
   "results":[
     {
