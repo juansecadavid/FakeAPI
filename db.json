@@ -1,5 +1,5 @@
 {
-  "results":[
+  "users":[
     {
     "name": "Juanse",
     "species": "Crack"
@@ -13,7 +13,7 @@
     "species": "Loco"
     }
   ],
-  "cards":[
+  "results":[
     {
       "name": "3 corazones"
     },
