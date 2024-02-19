@@ -8,7 +8,7 @@
   "users":[
     {
       "id": "1",
-      "name": "juanse",
+      "name": "Juanse",
       "deck": [
         {
           "card": "1"
@@ -17,18 +17,36 @@
           "card": "200"
         },
         {
-          "card": "3"
+          "card": "464"
         },
         {
-          "card": "4"
+          "card": "57"
         },
         {
-          "card": "5"
+          "card": "565"
         }
       ]
     },
     {
-      "name": "clara"
+      "id": "2",
+      "name": "Clara",
+      "deck": [
+        {
+          "card": "238"
+        },
+        {
+          "card": "700"
+        },
+        {
+          "card": "386"
+        },
+        {
+          "card": "356"
+        },
+        {
+          "card": "20"
+        }
+      ]
     },
     {
       "name": "laura"
